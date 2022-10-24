@@ -1,0 +1,3 @@
+Char -> ~80x230
+Char Container -> ~130x260
+Profile Space -> ~445x400

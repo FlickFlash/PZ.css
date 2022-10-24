@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.profile-container {
+    background-color: aquamarine;
+    width: 445px;
+    height: 400px;
+}
+
+.upper-bar {
+    background-color: blueviolet;
+    width: 445px;
+    height: 16px;
+}
+
+.profile-options {
+    background-color: brown;
+    width: 445px;
+    height: 22px;
+}
+
+.char-container {
+    background-color: orange;
+    float: left;
+    width: 130px;
+    height: 260px;
+    margin: 25px;
+}
+
+.char-info-container {
+    background-color: aliceblue;
+    width: 240px;
+    height: 260px;
+    float: left;
+    margin: 25px 25px 25px 0;
+}
+
+.bottom-left-info-container {
+    background-color: gray;
+    width: 130px;
+    height: 47px;
+    margin-left: 25px;
+    margin-right: 10px;
+    clear: left;
+    float: left;
+}
+
+.bottom-right-info-container {
+    background-color: greenyellow;
+    width: 255px;
+    height: 47px;
+    clear: right;
+    float: left;
+}
