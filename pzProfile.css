@@ -86,8 +86,15 @@ body {
     width: 126px;
     height: 260px;
     margin: 25px 25px 15px 25px;
+    display: flex;
+    justify-content: center;
     position: relative;
 }
+
+/* .char-img {
+    margin-left: auto;
+    margin-right: auto;
+} */
 
 .char-container::after {
     content: '';
