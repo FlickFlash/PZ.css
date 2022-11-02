@@ -26,6 +26,9 @@
 
 
     const charContainer = divElementCreation("char-container", profileContainer);
+    const charImg = divElementCreation("char-img", charContainer, "", "img")   
+    charImg.setAttribute("src", "charPZ.png");
+
 
     const charInfoContainer = divElementCreation("char-info-container", profileContainer);
     const charName = divElementCreation("char-name", charInfoContainer, "Flickowski McDantas", "div");
